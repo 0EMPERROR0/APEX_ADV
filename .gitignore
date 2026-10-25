@@ -48,3 +48,7 @@ desktop.ini
 logs/
 downloads/
 screenshots/
+
+api_key.json
+
+config/api_keys.json
