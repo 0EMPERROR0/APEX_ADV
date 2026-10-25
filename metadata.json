@@ -1,0 +1,6 @@
+{
+  "name": "APEX ADV",
+  "description": "Sleek, minimalist multimodal AI agent with real-time sound-reactive neural orb visualization, voice synthesis, file analysis, and aesthetic customization.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
