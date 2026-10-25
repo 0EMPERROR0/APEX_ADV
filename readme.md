@@ -1,7 +1,5 @@
-# ⚙️ MARK LVI (56)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
-
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
+# ⚙️ A.P.E.X
+### The Ultimate Cross-Platform Personal AI Assistant — By 0EMPERROR0
 
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
@@ -9,7 +7,7 @@ A real-time voice AI that can hear, see, speak, and control your computer — on
 
 ## ✨ Overview
 
-Mark LV gave the assistant a screen. **Mark LVI lets you choose what runs it.**
+Mark LV gave the assistant a screen. **APEX lets you choose what runs it.**
 
 Until now this was a Gemini assistant, and only that. If you had no quota left, no
 connection, or a rule that says your microphone does not leave the building, you
